@@ -1731,7 +1731,7 @@ msgid ""
 "Shift + Left-clicking on the 'select current spell' button will clear the "
 "readied spell"
 msgstr ""
-"Shift + левый клик на кнопку 'выберите текущее заклинание' уберут "
+"Shift + левый клик на кнопку 'выберите текущее заклинание' уберёт "
 "подготовленное заклинание"
 
 #: Source/help.cpp:86

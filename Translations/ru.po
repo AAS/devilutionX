@@ -1232,7 +1232,7 @@ msgstr "Ошибка создания Direct Sound"
 
 #: Source/error.cpp:32
 msgid "Not available in shareware version"
-msgstr "Не доступно в shareware-версии"
+msgstr "Недоступно в shareware-версии"
 
 #: Source/error.cpp:33
 msgid "Not enough space to save"
@@ -1347,7 +1347,7 @@ msgstr "Куда бы вы ни пошли, вот и вы"
 #. TRANSLATORS: Shrine Text. Keep atmospheric. :)
 #: Source/error.cpp:56
 msgid "Energy comes at the cost of wisdom"
-msgstr "Энергия приходит за счет мудрости"
+msgstr "Энергия приходит за счёт мудрости"
 
 #. TRANSLATORS: Shrine Text. Keep atmospheric. :)
 #: Source/error.cpp:57
@@ -1362,7 +1362,7 @@ msgstr "Где жадность терпит поражение, терпени�
 #. TRANSLATORS: Shrine Text. Keep atmospheric. :)
 #: Source/error.cpp:59
 msgid "Blessed by a benevolent companion!"
-msgstr "Благословен великодушным спутников!"
+msgstr "Благословлён великодушным спутником!"
 
 #. TRANSLATORS: Shrine Text. Keep atmospheric. :)
 #: Source/error.cpp:60
@@ -1677,7 +1677,7 @@ msgid ""
 "clicking on the item."
 msgstr ""
 "Используемые предметы малого размера, такие как зелья или свитки, "
-"автоматически помещаются на ваш пояс находящийся вверху панели интерфейса. "
+"автоматически помещаются на ваш пояс, находящийся вверху панели интерфейса. "
 "Когда предмет помещён на пояс, в соответствующей ячейке появляется цифра. "
 "Предметы можно использовать нажатием цифры на клавиатуре или правым кликом "
 "мыши по предмету."
@@ -1691,7 +1691,7 @@ msgid ""
 "You can select a specific amount of gold to drop byright-clicking on a pile "
 "of gold in your inventory."
 msgstr ""
-"Вы можете выбрать определённое количество золота которое хотите с помощью "
+"Вы можете выбрать определённое количество золота с помощью "
 "правого клика мыши по кучке золота в инвентаре."
 
 #: Source/help.cpp:72
@@ -1721,9 +1721,9 @@ msgid ""
 "allows you to select a skill or spell for immediate use.  To use a readied "
 "skill or spell, simply right-click in the main play area."
 msgstr ""
-"Левый клик на подготовленное зклинание открое быструю книгу заклинаний "
+"Левый клик на подготовленное заклинание откроет быструю книгу заклинаний "
 "позволяющую выбрать заклинание для немедленного использования. Для "
-"использование подготовленного заклинания просто кликните правой клавишей на "
+"использования подготовленного заклинания просто кликните правой клавишей на "
 "игровой зоне."
 
 #: Source/help.cpp:84
@@ -1745,8 +1745,8 @@ msgid ""
 "F7 or F8 keys after highlighting the spell you wish to assign."
 msgstr ""
 "Вы можете назначить до четырёх горячих клавиш для способностей, заклинаний "
-"или свитков. Откройте быструю книгу заклинаний как описано выше. Нажэмите "
-"F5, F6, F7 или F8 после того как подсветите заклинание которое хотите "
+"или свитков. Откройте быструю книгу заклинаний как описано выше. Нажмите "
+"F5, F6, F7 или F8 после того, как подсветите заклинание, которое хотите "
 "назначить."
 
 #: Source/help.cpp:92
@@ -1758,8 +1758,8 @@ msgid ""
 "Reading more than one book increases your knowledge of that spell, allowing "
 "you to cast the spell more effectively."
 msgstr ""
-"Чтение более одной книги укрепляют ваши знания заклинания, позволяя творить "
-"более более эффективные заклинания."
+"Чтение более одной книги укрепляет ваши знания заклинания, позволяя творить "
+"более эффективные заклинания."
 
 #: Source/help.cpp:130
 msgid "Shareware Hellfire Help"
@@ -2109,7 +2109,7 @@ msgstr "Щит"
 
 #: Source/itemdat.cpp:88
 msgid "Small Shield"
-msgstr "Мальенький щит"
+msgstr "Маленький щит"
 
 #: Source/itemdat.cpp:89
 msgid "Large Shield"
@@ -2428,7 +2428,7 @@ msgstr "Короткий посох заряженной стрелы"
 #. TRANSLATORS: Item prefix section.
 #: Source/itemdat.cpp:192
 msgid "Tin"
-msgstr "Оловяный"
+msgstr "Оловянный"
 
 #: Source/itemdat.cpp:193
 msgid "Brass"
@@ -2456,11 +2456,11 @@ msgstr "Платиновый"
 
 #: Source/itemdat.cpp:200
 msgid "Mithril"
-msgstr "Мирфриловый"
+msgstr "Мифриловый"
 
 #: Source/itemdat.cpp:201
 msgid "Meteoric"
-msgstr "Метиоритный"
+msgstr "Метеоритный"
 
 #: Source/itemdat.cpp:202 Source/objects.cpp:102
 msgid "Weird"
@@ -2476,7 +2476,7 @@ msgstr "Бесполезный"
 
 #: Source/itemdat.cpp:205
 msgid "Bent"
-msgstr "Согутый"
+msgstr "Согнутый"
 
 #: Source/itemdat.cpp:206
 msgid "Weak"
@@ -2876,7 +2876,7 @@ msgstr "дурака"
 
 #: Source/itemdat.cpp:316
 msgid "dyslexia"
-msgstr "дислексия"
+msgstr "дислексии"
 
 #: Source/itemdat.cpp:317
 msgid "magic"
@@ -2929,7 +2929,7 @@ msgstr "жизни"
 
 #: Source/itemdat.cpp:329
 msgid "trouble"
-msgstr "неприятность"
+msgstr "неприятности"
 
 #: Source/itemdat.cpp:330
 msgid "the pit"
@@ -3041,7 +3041,7 @@ msgstr "пламени"
 
 #: Source/itemdat.cpp:357
 msgid "fire"
-msgstr "огоня"
+msgstr "огня"
 
 #: Source/itemdat.cpp:358
 msgid "burning"
@@ -3071,7 +3071,7 @@ msgstr "достатка"
 msgid "thorns"
 msgstr "шипов"
 
-# коррупции - слишком в духе головного кодекса
+# коррупции - слишком в духе уголовного кодекса
 #: Source/itemdat.cpp:365
 msgid "corruption"
 msgstr "развращения"
@@ -3094,7 +3094,7 @@ msgstr "вампиров"
 
 #: Source/itemdat.cpp:370
 msgid "the leech"
-msgstr "личя"
+msgstr "лича"
 
 #: Source/itemdat.cpp:371
 msgid "blood"
@@ -3328,7 +3328,7 @@ msgstr "Корявый корень"
 
 #: Source/itemdat.cpp:447
 msgid "The Cranium Basher"
-msgstr "Черепнобойник"
+msgstr "Черепобойник"
 
 #: Source/itemdat.cpp:448
 msgid "Schaefer's Hammer"
@@ -3566,7 +3566,7 @@ msgstr "Кольцо гладиатора"
 
 #: Source/items.cpp:150
 msgid "Oil of Mastery"
-msgstr "Масло мастерста"
+msgstr "Масло мастерства"
 
 #: Source/items.cpp:152
 msgid "Oil of Death"
@@ -3628,7 +3628,7 @@ msgstr "потенциал урона - не луки"
 
 #: Source/items.cpp:1912
 msgid "reduces attributes needed"
-msgstr "уменьшает требуемые аттрибуты"
+msgstr "уменьшает требуемые атрибуты"
 
 #: Source/items.cpp:1914
 msgid "to use armor or weapons"
@@ -3661,7 +3661,7 @@ msgstr "увеличивает класс брони"
 
 #: Source/items.cpp:1936
 msgid "of armor and shields"
-msgstr "брони и шитов"
+msgstr "брони и щитов"
 
 #: Source/items.cpp:1940
 msgid "greatly increases the armor"
@@ -3741,7 +3741,7 @@ msgstr "восстановить жизнь и ману"
 
 #: Source/items.cpp:2020
 msgid "restore all life and mana"
-msgstr "восстановить жизнь и ману полнстью"
+msgstr "восстановить жизнь и ману полностью"
 
 #: Source/items.cpp:2044 Source/items.cpp:2069
 msgid "Right-click to read"
@@ -4068,7 +4068,7 @@ msgstr "наибыстрейшее восстановление от удара"
 
 #: Source/items.cpp:4045
 msgid "fast block"
-msgstr "быстрй блок"
+msgstr "быстрый блок"
 
 #: Source/items.cpp:4048
 msgid "adds {:d} point to damage"
@@ -4123,7 +4123,7 @@ msgstr "урон молнией: {:d}-{:d}"
 
 #: Source/items.cpp:4087
 msgid "charged bolts on hits"
-msgstr "выпускает заряженые болты при ударе"
+msgstr "выпускает заряженные болты при ударе"
 
 #: Source/items.cpp:4096
 msgid "occasional triple damage"
@@ -4223,7 +4223,7 @@ msgstr "Не идентифицировано"
 
 #: Source/loadsave.cpp:1665 Source/loadsave.cpp:2122
 msgid "Unable to open save file archive"
-msgstr "Невозможно открыть фал сохранённой игры"
+msgstr "Невозможно открыть файл сохранённой игры"
 
 #: Source/loadsave.cpp:1668
 msgid "Invalid save file"
@@ -4572,7 +4572,7 @@ msgstr "Лазурный дракон"
 
 #: Source/monstdat.cpp:112
 msgid "Black Knight"
-msgstr "Черный рыцарь"
+msgstr "Чёрный рыцарь"
 
 #: Source/monstdat.cpp:113
 msgid "Doom Guard"
@@ -4642,7 +4642,7 @@ msgstr "Голем"
 
 #: Source/monstdat.cpp:129
 msgid "The Dark Lord"
-msgstr "Темный Лорд"
+msgstr "Тёмный Лорд"
 
 #: Source/monstdat.cpp:130
 msgid "The Arch-Litch Malignus"
@@ -4686,7 +4686,7 @@ msgstr "Повелитель пауков"
 
 #: Source/monstdat.cpp:140
 msgid "Lashworm"
-msgstr "Плеточный червь"
+msgstr "Плёточный червь"
 
 #: Source/monstdat.cpp:141
 msgid "Torchant"
@@ -4862,7 +4862,7 @@ msgstr "Спиногрыз"
 
 #: Source/monstdat.cpp:506
 msgid "Blackash the Burning"
-msgstr "Чёрнострел Пылающий"
+msgstr "Чернострел Пылающий"
 
 #: Source/monstdat.cpp:507
 msgid "Shadowcrow"
@@ -4969,7 +4969,7 @@ msgstr "Костехруст"
 
 #: Source/monstdat.cpp:532
 msgid "Devilskull Sharpbone"
-msgstr "Череподявол Острокост"
+msgstr "Череподьявол Острокост"
 
 #: Source/monstdat.cpp:533
 msgid "Brokenstorm"
@@ -4989,7 +4989,7 @@ msgstr "Златомор Пламенный"
 
 #: Source/monstdat.cpp:537
 msgid "Blackstorm"
-msgstr "Чёрношторм"
+msgstr "Черношторм"
 
 #: Source/monstdat.cpp:538
 msgid "Plaguewrath"
@@ -5021,7 +5021,7 @@ msgstr "Львочереп"
 
 #: Source/monstdat.cpp:545
 msgid "Blacktongue"
-msgstr "Чёрнояз"
+msgstr "Чернояз"
 
 #: Source/monstdat.cpp:546
 msgid "Viletouch"
@@ -5037,11 +5037,11 @@ msgstr "Клыкошкур"
 
 #: Source/monstdat.cpp:549
 msgid "Witchfire the Unholy"
-msgstr "Огневедьм Нечистивый"
+msgstr "Огневедьм Нечестивый"
 
 #: Source/monstdat.cpp:550
 msgid "Blackskull"
-msgstr "Чёрночерен"
+msgstr "Черночереп"
 
 #: Source/monstdat.cpp:551
 msgid "Soulslash"
@@ -5304,7 +5304,7 @@ msgstr "Тихий"
 
 #: Source/objects.cpp:121
 msgid "Secluded"
-msgstr "Уединенный"
+msgstr "Уединённый"
 
 #: Source/objects.cpp:122
 msgid "Ornate"
@@ -5596,7 +5596,7 @@ msgstr "Невозможно открыть архив"
 
 #: Source/pfile.cpp:383
 msgid "Unable to load character"
-msgstr "Невозможно загрузить персонаж"
+msgstr "Невозможно загрузить персонажа"
 
 #: Source/pfile.cpp:408 Source/pfile.cpp:428
 msgid "Unable to read to save file archive"
@@ -5630,7 +5630,7 @@ msgid ""
 msgstr ""
 "Не удалось загрузить ресурсы интерфейса.\n"
 "\n"
-"Убедитесь что devilutionx.mpq находится в папке с игрой и он обновлён."
+"Убедитесь, что devilutionx.mpq находится в папке с игрой и он обновлён."
 
 #: Source/qol/xpbar.cpp:128
 msgid "Level {:d}"
@@ -5791,7 +5791,7 @@ msgstr "Инфравидение"
 
 #: Source/spelldat.cpp:25
 msgid "Phasing"
-msgstr "Премещение"
+msgstr "Перемещение"
 
 #: Source/spelldat.cpp:26
 msgid "Mana Shield"
@@ -5859,7 +5859,7 @@ msgstr "Элементаль"
 
 #: Source/spelldat.cpp:45
 msgid "Charged Bolt"
-msgstr "Заряженый болт"
+msgstr "Заряженный болт"
 
 #: Source/spelldat.cpp:46
 msgid "Holy Bolt"
@@ -5867,7 +5867,7 @@ msgstr "Святой болт"
 
 #: Source/spelldat.cpp:47
 msgid "Resurrect"
-msgstr "Восресить"
+msgstr "Воскресить"
 
 #: Source/spelldat.cpp:48
 msgid "Telekinesis"

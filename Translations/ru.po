@@ -3381,7 +3381,7 @@ msgstr "Шлем духов"
 
 #: Source/itemdat.cpp:460
 msgid "Thinking Cap"
-msgstr "Кепка размышлений"
+msgstr "Шапка размышлений"
 
 #: Source/itemdat.cpp:461
 msgid "OverLord's Helm"
@@ -4520,7 +4520,7 @@ msgstr "Вихрь"
 # ХЗ ХЗ
 #: Source/monstdat.cpp:99
 msgid "Devil Kin Brute"
-msgstr "Грубое дьявольское отродье"
+msgstr "Дьяволёнок"
 
 #: Source/monstdat.cpp:100
 msgid "Winged-Demon"
@@ -4797,7 +4797,7 @@ msgstr "Душегной"
 
 #: Source/monstdat.cpp:488
 msgid "Pukerat the Unclean"
-msgstr "Пукарат Нечистый"
+msgstr "Нечистый Блевокрыс"
 
 # Костедёр?
 #: Source/monstdat.cpp:489
